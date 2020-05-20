@@ -1,3 +1,2 @@
 # The Paris Plan
-Here are your lab assignments.
-Specially for my juniors suffering in PICT😂
+So here are all the ADS CODES for SPPU SE Computer Science.
